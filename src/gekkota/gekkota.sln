@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gekkota", "gekkota.vcproj", "{7E473872-14E5-4A10-BFE2-56CF0D81386F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - Static|Win32 = Debug - Static|Win32
+		Debug|Win32 = Debug|Win32
+		Release - Static|Win32 = Release - Static|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Debug - Static|Win32.ActiveCfg = Release - Static|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Debug - Static|Win32.Build.0 = Release - Static|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Debug|Win32.Build.0 = Debug|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Release - Static|Win32.ActiveCfg = Release - Static|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Release - Static|Win32.Build.0 = Release - Static|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Release|Win32.ActiveCfg = Release|Win32
+		{7E473872-14E5-4A10-BFE2-56CF0D81386F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
